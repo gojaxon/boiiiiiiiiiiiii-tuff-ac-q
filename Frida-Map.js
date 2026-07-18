@@ -1,5 +1,4 @@
 // DUMPED BY LOCA'S AUTO SYMS TOOL (QUEST)
-// Credits to Juelz for the original symbol mapper
 // Quest v1.82.2.3211 | Build 3211
 
 Il2Cpp.$config.exports = {
